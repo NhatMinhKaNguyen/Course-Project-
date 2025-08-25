@@ -1,2 +1,0 @@
-# Course-Project-
-Dynamic Simulation 
